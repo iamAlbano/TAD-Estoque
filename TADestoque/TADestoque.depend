@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1569001618 source:c:\users\albano\documents\tadestoque\tadestoque\cliente.c
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+
+1569006611 source:c:\users\albano\documents\tadestoque\tadestoque\vendas.c
+	<stdlib.h>
+	<stdio.h>
+	"vendas.h"
+	"produtos.h"
+	"cliente.h"
+	<string.h>
+
+1569010734 source:c:\users\albano\documents\tadestoque\tadestoque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"cliente.h"
+	"vendas.h"
+	"produtos.h"
+	"menu.h"
+
+1568985189 c:\users\albano\documents\tadestoque\tadestoque\cliente.h
+
+1569006110 c:\users\albano\documents\tadestoque\tadestoque\vendas.h
+
+1569001636 source:c:\users\albano\documents\tadestoque\tadestoque\produtos.c
+	"produtos.h"
+	<stdio.h>
+	<stdlib.h>
+
+1568989562 c:\users\albano\documents\tadestoque\tadestoque\produtos.h
+
+1569003053 source:c:\users\albano\documents\tadestoque\tadestoque\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"produtos.h"
+	"cliente.h"
+
+1568998892 c:\users\albano\documents\tadestoque\tadestoque\menu.h
+
+1569001618 source:c:\users\albano\documents\tadestoque_guilhermelagealbano_1918055\tadestoque\cliente.c
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+
+1568985189 c:\users\albano\documents\tadestoque_guilhermelagealbano_1918055\tadestoque\cliente.h
+
+1569010734 source:c:\users\albano\documents\tadestoque_guilhermelagealbano_1918055\tadestoque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"cliente.h"
+	"vendas.h"
+	"produtos.h"
+	"menu.h"
+
+1569006110 c:\users\albano\documents\tadestoque_guilhermelagealbano_1918055\tadestoque\vendas.h
+
+1568989562 c:\users\albano\documents\tadestoque_guilhermelagealbano_1918055\tadestoque\produtos.h
+
+1568998892 c:\users\albano\documents\tadestoque_guilhermelagealbano_1918055\tadestoque\menu.h
+
+1569011282 source:c:\users\albano\documents\tadestoque_guilhermelagealbano_1918055\tadestoque\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"produtos.h"
+	"cliente.h"
+
+1569001636 source:c:\users\albano\documents\tadestoque_guilhermelagealbano_1918055\tadestoque\produtos.c
+	"produtos.h"
+	<stdio.h>
+	<stdlib.h>
+
+1569032632 source:c:\users\albano\documents\tadestoque_guilhermelagealbano_1918055\tadestoque\vendas.c
+	<stdlib.h>
+	<stdio.h>
+	"vendas.h"
+	"produtos.h"
+	"cliente.h"
+	<string.h>
+
+1569001618 source:c:\users\guial\downloads\tadestoque_guilhermelagealbano_1918055\tadestoque\cliente.c
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+
+1568985189 c:\users\guial\downloads\tadestoque_guilhermelagealbano_1918055\tadestoque\cliente.h
+
+1569957846 source:c:\users\guial\downloads\tadestoque_guilhermelagealbano_1918055\tadestoque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"cliente.h"
+	"vendas.h"
+	"produtos.h"
+	"menu.h"
+	"prova.h"
+
+1569952038 c:\users\guial\downloads\tadestoque_guilhermelagealbano_1918055\tadestoque\vendas.h
+
+1569941717 c:\users\guial\downloads\tadestoque_guilhermelagealbano_1918055\tadestoque\produtos.h
+
+1569942944 c:\users\guial\downloads\tadestoque_guilhermelagealbano_1918055\tadestoque\menu.h
+
+1569943123 source:c:\users\guial\downloads\tadestoque_guilhermelagealbano_1918055\tadestoque\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+	"produtos.h"
+	"cliente.h"
+
+1569941724 source:c:\users\guial\downloads\tadestoque_guilhermelagealbano_1918055\tadestoque\produtos.c
+	"produtos.h"
+	<stdio.h>
+	<stdlib.h>
+
+1569950658 source:c:\users\guial\downloads\tadestoque_guilhermelagealbano_1918055\tadestoque\vendas.c
+	<stdlib.h>
+	<stdio.h>
+	"vendas.h"
+	"produtos.h"
+	"cliente.h"
+	<string.h>
+
+1569952161 c:\users\guial\downloads\tadestoque_guilhermelagealbano_1918055\tadestoque\prova.h
+
+1569948325 source:c:\users\guial\downloads\tadestoque_guilhermelagealbano_1918055\tadestoque\prova.c
+	<stdio.h>
+	<stdlib.h>
+	"prova.h"
+	"produtos.h"
+	"vendas.h"
+
